@@ -1,0 +1,7 @@
+int8 num_robots
+int8 num_init_pos
+int8 num_samples
+int8 num_targets
+TargetParams targets[]
+float32 quad_u_cost
+float32 collision_cost
