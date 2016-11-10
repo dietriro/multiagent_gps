@@ -1,0 +1,7 @@
+int64 n_robots
+int64 n_targets
+geometry_msgs/Pose2D[] init_poses
+geometry_msgs/Pose2D target_pose
+string robot_description_path
+---
+bool success
